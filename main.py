@@ -1,6 +1,3 @@
-# commitar no git
-# escrever testes
-# ver como o Pauldo documento output da função e essas coisas e fazer igual
 from logging_config import setup_logging
 from rss_reader.app import RSSReaderApp
 
